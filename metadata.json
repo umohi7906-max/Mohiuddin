@@ -1,0 +1,6 @@
+{
+  "name": "Turbo Car",
+  "description": "High-speed 2D arcade car racing game with traffic evasion, coin collection, nitro turbo boost, garage car upgrades, and leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
